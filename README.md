@@ -16,7 +16,7 @@ LiveChatDialogFlowIntegration
     Your app is listening on port 64129
     ```
 - In browser, go to http://localhost:64129 (port no from above output)
-- Now you can see following screens
+- Below are the screenshots
 
 ![alt text](screenshot_visitorsdkhomepage.png)
 ![alt text](screenshots.png)
